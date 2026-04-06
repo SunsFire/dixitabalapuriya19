@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Dixita%20Balapuriya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Data%20Science%20%7C%20GenAI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+%7C+ML+%7C+GenAI+Enthusiast;Python+%7C+SQL+%7C+Data+Visualization;Turning+Raw+Data+into+Insights+📊;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=45&lines=Data+Science+%7C+ML+%7C+GenAI+Enthusiast;Python+%7C+SQL+%7C+Data+Visualization;Turning+Raw+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
